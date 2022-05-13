@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-22T18:39:31 IST" name="Default suite" finished-at="2021-10-22T18:39:40 IST" duration-ms="9858">
+    <groups>
+    </groups>
+    <test started-at="2021-10-22T18:39:31 IST" name="Default test" finished-at="2021-10-22T18:39:40 IST" duration-ms="9858">
+      <class name="Athetha.RestAssuredProject.tests.TestApiMethods">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Athetha.RestAssuredProject.tests.TestApiMethods@be35cd9]" started-at="2021-10-22T18:39:31 IST" name="beforeTest" finished-at="2021-10-22T18:39:31 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="testPostUser()[pri:1, instance:Athetha.RestAssuredProject.tests.TestApiMethods@be35cd9]" started-at="2021-10-22T18:39:31 IST" name="testPostUser" finished-at="2021-10-22T18:39:35 IST" duration-ms="3923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testGetUserByName()[pri:2, instance:Athetha.RestAssuredProject.tests.TestApiMethods@be35cd9]" started-at="2021-10-22T18:39:35 IST" name="testGetUserByName" finished-at="2021-10-22T18:39:36 IST" duration-ms="1755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByName -->
+        <test-method signature="testDeleteUserByName()[pri:3, instance:Athetha.RestAssuredProject.tests.TestApiMethods@be35cd9]" started-at="2021-10-22T18:39:36 IST" name="testDeleteUserByName" finished-at="2021-10-22T18:39:38 IST" duration-ms="1435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUserByName -->
+        <test-method signature="testPutUserByName()[pri:4, instance:Athetha.RestAssuredProject.tests.TestApiMethods@be35cd9]" started-at="2021-10-22T18:39:38 IST" name="testPutUserByName" finished-at="2021-10-22T18:39:39 IST" duration-ms="1268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPutUserByName -->
+        <test-method signature="testGetlogin()[pri:5, instance:Athetha.RestAssuredProject.tests.TestApiMethods@be35cd9]" started-at="2021-10-22T18:39:39 IST" name="testGetlogin" finished-at="2021-10-22T18:39:40 IST" duration-ms="1375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetlogin -->
+      </class> <!-- Athetha.RestAssuredProject.tests.TestApiMethods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
